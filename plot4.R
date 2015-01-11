@@ -1,3 +1,4 @@
+## Exdata-010
 ## Read data from household_power_consumption.txt
 inData <- read.table("household_power_consumption.txt", 
 					 sep=";", header=T, colClasses = "character")
